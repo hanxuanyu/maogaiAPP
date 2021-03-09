@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bfff</color>
+    <color name="colorPrimaryDark">#00bfff</color>
+    <color name="colorAccent">#00bfff</color>
+    <color name="bar_color">#00bfff</color>
+    <!-- item背景所需要的颜色值 -->
+    <color name="bg_selected">#87daf5</color><!-- 红色 -->
+    <color name="bg_pressed">#fffafb</color><!-- 粉色 -->
+    <color name="bg_normal">#ffffff</color><!-- 绿色 -->
+    <!-- item中textview所需要的颜色值 -->
+    <color name="text_normal">#ff000000</color><!-- 黑色 -->
+    <color name="text_pressed">#ffffffff</color><!-- 白色 -->
+    <color name="white">#ffffffff</color><!-- 白色 -->
+</resources>

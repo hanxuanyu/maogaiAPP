@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="android:colorControlNormal">@android:color/white</item>
+        <!--这个也正确,用这个吧-->
+        <item name="colorControlNormal">@android:color/holo_red_dark</item>
+    </style>
+</resources>

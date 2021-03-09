@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TYUT毛概题库</string>
+    <string name="switch_chapter">切换当前章节</string>
+    <string name="reset_question">快速切换题目</string>
+    <string name="tittle">题库</string>
+    <string name="toolBar_tittle">题库</string>
+    <string name="about_author">作者：TYUT信计学院·韩炫宇</string>
+    <string name="about_qq">QQ:2252193204</string>
+    <string name="about_tip">本应用用来方便太理的小伙伴们刷毛概题库\n希望大家用的开心~\n使用过程中若发现任何问题\n请及时联系我\n</string>
+    <string name="lib_date">题库版本：2018</string>
+</resources>
